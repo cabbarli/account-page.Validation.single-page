@@ -47,6 +47,12 @@ html, body {
   margin: 0;
 }
 
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .account-container {
+    width: 43%;
+  }
+}
+
 .account {
   background-color: #94ecf5;
 }

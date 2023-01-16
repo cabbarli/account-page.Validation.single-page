@@ -1,6 +1,7 @@
 @import "variables";
 @import "xususiyyet";
 @import "reset";
+@import "responsive";   
 .account {
     background-color: $blue;
     @extend .xususiyyet;
